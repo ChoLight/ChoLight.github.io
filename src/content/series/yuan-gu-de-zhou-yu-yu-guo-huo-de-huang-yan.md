@@ -1,5 +1,5 @@
 ---
-title: Docker 远古的咒语与过火的谎言
+title: 远古的咒语与过火的谎言
 status: ongoing
 defaultCategory: FFXIV OC
 ---
