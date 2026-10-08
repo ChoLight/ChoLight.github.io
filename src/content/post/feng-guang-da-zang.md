@@ -5,7 +5,7 @@ description: 你妈没有告诉你，撞到人要说对不起。
 tags: [BL.全年龄]
 category: FFXIV OC
 draft: false
-series：纷争前线大饭堂
+series: "fen-zheng-qian-xian-da-fan-tang"
 ---
 
 ::: Warning 阅前须知
