@@ -2,7 +2,7 @@ import Key from "../i18nKey-runtime.mjs";
 import type { Translation } from "../translation.ts";
 
 export const zh_CN: Translation = {
-	[Key.home]: "主页",
+	[Key.home]: "文章",
 	[Key.about]: "关于",
 	[Key.archive]: "归档",
 	[Key.archiveGroup]: "归档分组",
@@ -60,7 +60,7 @@ export const zh_CN: Translation = {
 	[Key.skillLevelExpert]: "精通",
 
 	[Key.projects]: "项目",
-	[Key.projectsBanner]: "持续打磨的作品、实验与系统。",
+	[Key.projectsBanner]: "持续打磨的作品。",
 	[Key.projectsCounts]: "个项目",
 	[Key.projectCategories]: "项目分类",
 	[Key.projectPhaseShipped]: "已发布",
@@ -99,10 +99,10 @@ export const zh_CN: Translation = {
 	[Key.gamesHours]: "小时",
 	[Key.gamesRating]: "评分",
 
-	[Key.timeline]: "时间线",
+	[Key.timeline]: "更新笔记",
 	[Key.timelineBanner]: "成长轨迹、重要经历与里程碑记录。",
 	[Key.timelineCounts]: "个节点",
-	[Key.timelineCategories]: "时间线分类",
+	[Key.timelineCategories]: "更新笔记分类",
 	[Key.timelineNoResults]: "没有符合该分类的节点",
 
 	[Key.albums]: "相册",
