@@ -2,7 +2,7 @@
 title: 【侍暗】风光大葬
 published: 2026-10-09
 description: 你妈没有告诉你，撞到人要说对不起。 
-tags: [BL.全年龄]
+tags: [BL,全年龄]
 category: FFXIV OC
 draft: false
 series: "fen-zheng-qian-xian-da-fan-tang"
