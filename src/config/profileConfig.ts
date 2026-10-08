@@ -6,26 +6,31 @@ import { withUserConfig } from "../utils/config-overlay.ts";
  * 类型见 src/types/config.ts。
  */
 export const profileConfig: ProfileConfig = withUserConfig("profile", {
-	avatar: "assets/images/demo-avatar.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Shirone",
-	bio: "The rain remembers what the sky forgot to say.",
+	avatar: "assets/images/cat2.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	name: "常寂光",
+	bio: "生命不息，创作不止。",
 	links: [
 		{
-			name: "X",
-			icon: "fa7-brands:x-twitter", // Visit https://icones.js.org/ for icon codes
+			name: "QQ",
+			icon: "fa7-brands:qq", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://x.com",
+			url: "https://h5.qzone.qq.com/mqzone/profile?hostuin=1072069114",
 		},
 		{
-			name: "Steam",
-			icon: "fa7-brands:steam",
-			url: "https://store.steampowered.com",
+			name: "Weibo",
+			icon: "mdi:sina-weibo",
+			url: "https://weibo.com/u/7831446631",
 		},
 		{
-			name: "GitHub",
-			icon: "fa7-brands:github",
-			url: "https://github.com/LyraVoid/Shirone",
+			name: "Ao3",
+			icon: "cib:archive-of-our-own",
+			url: "https://archiveofourown.org/users/Cho_Light",
+		},
+		{
+			name: "Xiaohongshu",
+			icon: "simple-icons:xiaohongshu",
+			url: "https://www.xiaohongshu.com/user/profile/635e23b7000000001901cca4",
 		},
 	],
 });
