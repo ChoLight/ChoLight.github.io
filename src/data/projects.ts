@@ -6,41 +6,18 @@ import type { ProjectItem } from "@/types/projectsConfig";
 
 export const projectsData: ProjectItem[] = [
 	{
-		key: "shirone",
-		title: "Shirone",
+		key: "hui-fan-bi-an-hua",
+		title: "回返彼岸花",
 		summary:
-			"An Astro blog theme shaped around an M3E component system, expressive content, and resilient client navigation.",
+			"最终幻想十四武士中心图文合志",
 		category: "theme",
-		phase: "building",
-		technologies: ["Astro", "Svelte", "TypeScript", "Tailwind CSS"],
-		icon: "material-symbols:deployed-code-outline-rounded",
-		cover: "/assets/projects/shirone.webp",
-		coverAlt: "Shirone theme homepage preview",
-		featured: true,
-		repository: "https://github.com/LyraVoid/Shirone",
-		year: "2026",
-	},
-	{
-		key: "folkpatch",
-		title: "FolkPatch",
-		summary: "A kernel-level root solution for Android, built on APatch.",
-		category: "android",
-		phase: "building",
-		technologies: ["Kotlin", "APatch", "Android"],
-		icon: "material-symbols:terminal-rounded",
-		repository: "https://github.com/LyraVoid/FolkPatch",
-	},
-	{
-		key: "kernelpatch",
-		title: "KernelPatch",
-		summary:
-			"A kernel patch framework that powers APatch-style root on Android by loading code into the running kernel.",
-		category: "android",
 		phase: "shipped",
-		technologies: ["C", "Linux Kernel", "Android"],
-		icon: "material-symbols:extension-outline-rounded",
-		repository: "https://github.com/lyravoid/KernelPatch",
-	},
+		technologies: ["同人", "合志", "TypeScript", "Tailwind CSS"],
+		cover: "/assets/projects/shirone.webp",
+		featured: true,
+		repository: "https://www.allcpp.cn/d/863720.do#tabType=2",
+		year: "2024",
+	}
 ];
 
 /** 获取所有项目数据列表 */
