@@ -14,6 +14,8 @@
 
 ## ✦ Other Sides
 
+这是我的其他个人站点，欢迎你的关注！
+
 - **Weibo**: [愛憎幻滅](https://weibo.com/u/7831446631)
 - **Xiaohongshu**: [世情無常](https://www.xiaohongshu.com/user/profile/635e23b7000000001901cca4)
 - **Ao3**: [Cho_Light](https://archiveofourown.org/users/Cho_Light)
