@@ -9,4 +9,5 @@ export const profileConfig: ProfileConfig = withUserConfig("profile", {
 	avatar: "assets/images/cat2.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "常寂光",
 	bio: "生命不息，创作不止。",
+	links: []
 });
