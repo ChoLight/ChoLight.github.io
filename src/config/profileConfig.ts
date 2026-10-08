@@ -11,13 +11,6 @@ export const profileConfig: ProfileConfig = withUserConfig("profile", {
 	bio: "生命不息，创作不止。",
 	links: [
 		{
-			name: "QQ",
-			icon: "fa7-brands:qq", // Visit https://icones.js.org/ for icon codes
-			// You will need to install the corresponding icon set if it's not already included
-			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://h5.qzone.qq.com/mqzone/profile?hostuin=1072069114",
-		},
-		{
 			name: "Weibo",
 			icon: "mdi:sina-weibo",
 			url: "https://weibo.com/u/7831446631",
