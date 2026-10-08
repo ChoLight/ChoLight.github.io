@@ -1,5 +1,5 @@
 ---
-title: Docker 八百万神侧耳倾听
+title: 八百万神侧耳倾听
 status: ongoing
 defaultCategory: FFXIV OC
 ---
