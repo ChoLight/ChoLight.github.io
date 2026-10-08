@@ -67,7 +67,7 @@ export const zh_CN: Translation = {
 	[Key.projectPhaseBuilding]: "构建中",
 	[Key.projectPhaseExploring]: "探索中",
 	[Key.projectVisit]: "访问项目",
-	[Key.projectSource]: "查看源码",
+	[Key.projectSource]: "项目地址",
 	[Key.projectTechnologies]: "技术栈",
 	[Key.projectsNoResults]: "没有符合该分类的项目",
 
