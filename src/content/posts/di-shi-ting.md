@@ -3,7 +3,7 @@ title: 【侍暗】谛视听
 published: 2026-10-09
 description: 若以色见我，以音声求我，是人行邪道，不能见如来。
 tags: [BL,R-18]
-category: FFXIV OC
+category: Commission
 draft: false
 series: "a-commission"
 seriesOrder: 1
