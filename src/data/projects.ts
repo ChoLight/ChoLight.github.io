@@ -9,7 +9,8 @@ export const projectsData: ProjectItem[] = [
 		key: "hui-fan-bi-an-hua",
 		title: "回返彼岸花",
 		summary:
-			"最终幻想十四武士中心图文合志",
+			"最终幻想十四武士中心图文合志。
+			负责作品：《风光大葬》",
 		category: "theme",
 		phase: "shipped",
 		technologies: ["同人", "合志"],
