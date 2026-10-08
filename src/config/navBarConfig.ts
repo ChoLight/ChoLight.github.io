@@ -139,11 +139,11 @@ export const LinkPresets: Record<string, NavBarLink> = {
 
 const defaultNavBarConfig: NavBarConfig = {
 	links: [
-		LinkPresets.Timeline,
 		LinkPresets.Home,
 		LinkPresets.Albums,
 		LinkPresets.Projects,
 		LinkPresets.Archive,
+		LinkPresets.Timeline,
 		{
 			name: i18n(I18nKey.more),
 			icon: "material-symbols:apps-rounded",
