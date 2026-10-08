@@ -1,25 +1,14 @@
-# About Shirone
+# About ChoLight
 
-Welcome to the demo site of **Shirone** (白音) — an expressive, anime-inspired blog theme built on the **Material 3 Expressive (M3E)** design system.
+欢迎你来到我的博客！你可以称呼我为**常寂光**。
+本站点使用了[**Shirone**](https://github.com/LyraVoid/Shirone)博客主题，欢迎访问原作者的主页。
 
-::github{repo="LyraVoid/Shirone"}
+## ✦ Contact
 
-## ✦ Design & Philosophy
-
-Shirone aims to combine the warmth of expressive anime aesthetics with the rigor of modern web engineering:
-
-- **Dynamic Chromatic Spell**: Full dynamic HCT palette generation responding seamlessly to light/dark modes and user preferences with zero layout shifts.
-- **Seamless Shell Navigation**: Persistent application shell driven by Swup for continuous music playback, smooth page transitions, and preserved state.
-- **Rich Story Grimoire**: Markdown and MDX authoring with KaTeX math, Mermaid diagrams, interactive admonitions, expressive code blocks, and adaptive image galleries.
-- **Zero Extra Burden**: Optional integrations (comments, analytics, music widgets) load dynamically on demand — zero DOM footprint and zero bundle overhead when disabled.
-
-## ✦ Tech Stack
-
-- **Framework**: [Astro 7](https://astro.build/) & [Svelte 5](https://svelte.dev/) (Runes-driven islands)
-- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/) & [Stylus](https://stylus-lang.com/)
-- **Design Standard**: [Material 3 Expressive](https://m3.material.io/)
-- **Typography**: Outfit & Yozai (悠哉圆体) with automated build-time subsetting
-- **Search Engine**: [Pagefind](https://pagefind.app/) offline full-text search
+- **QQ**: [1072069114](https://user.qzone.qq.com/1072069114)
+- **Weibo**: [愛憎幻滅](https://weibo.com/u/7831446631)
+- **Xiaohongshu**: [世情無常](https://www.xiaohongshu.com/user/profile/635e23b7000000001901cca4)
+- **Ao3**: [Cho_Light](https://archiveofourown.org/users/Cho_Light)
 
 ## ✦ Credits
 
