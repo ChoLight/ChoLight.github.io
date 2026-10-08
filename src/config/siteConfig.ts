@@ -42,7 +42,7 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 	// 默认页面背景模式："banner" 使用壁纸横幅，"none" 使用主题纯色。
 	// 访客在“显示设置”中的选择会保存在浏览器中，并覆盖这里的默认值。
 	wallpaperMode: {
-		defaultMode: "banner",
+		defaultMode: "none",
 	},
 	// 页面背景纹理系统配置（5 大精美预设 + 零开销 HCT 动态取色）
 	texture: {
