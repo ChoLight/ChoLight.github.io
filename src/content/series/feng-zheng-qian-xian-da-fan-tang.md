@@ -4,7 +4,6 @@ status: ongoing
 defaultCategory: FFXIV OC
 ---
 
-**简介：**
 以纷争前线为主舞台的狗血群像剧，对该玩法有一定的魔改。
 虚拟演绎请勿代入现实。
 
