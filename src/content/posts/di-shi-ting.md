@@ -7,9 +7,9 @@ category: Commission
 draft: false
 series: "a-commission"
 seriesOrder: 1
-encrypted: true
+encrypted: false
 password: "yes"
-passwordHint: "18？y/n"
+passwordHint: "18↑？yes/no"
 hideHomeContent: true
 ---
 
