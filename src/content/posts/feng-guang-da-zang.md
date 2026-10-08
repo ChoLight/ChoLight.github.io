@@ -6,6 +6,7 @@ tags: [BL,全年龄]
 category: FFXIV OC
 draft: false
 series: "fen-zheng-qian-xian-da-fan-tang"
+seriesOrder: 1
 ---
 
 ::: Warning 阅前须知
