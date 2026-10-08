@@ -14,6 +14,7 @@ export const projectsData: ProjectItem[] = [
 		phase: "shipped",
 		technologies: ["同人", "合志"],
 		cover: "/assets/images/00184f15-5f85-482b-bf53-5e6981a9aa27.webp",
+		coverAlt: "封面替代文本", 
 		featured: true,
 		repository: "https://www.allcpp.cn/d/863720.do#tabType=2",
 		year: "2024",
