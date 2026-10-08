@@ -7,10 +7,10 @@ category: Commission
 draft: false
 series: "a-commission"
 seriesOrder: 2
-encrypted: false
+encrypted: true
 password: "yes"
-passwordHint: "18↑？yes/no"
-hideHomeContent: true
+passwordHint: "18↑？(yes/no)"
+hideHomeContent: false
 ---
 
 ::: Warning 阅前须知
