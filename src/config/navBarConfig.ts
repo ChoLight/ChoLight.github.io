@@ -44,17 +44,59 @@ export const LinkPresets: Record<string, NavBarLink> = {
 		icon: "material-symbols:archive-outline-rounded",
 		pageKey: "archive",
 	},
+	Friends: {
+		name: i18n(I18nKey.friends),
+		url: "/friends/",
+		icon: "material-symbols:handshake-outline-rounded",
+		pageKey: "friends",
+	},
 	Moments: {
 		name: i18n(I18nKey.moments),
 		url: "/moments/",
 		icon: "material-symbols:auto-awesome-outline-rounded",
 		pageKey: "moments",
-	}
+	},
+	Anime: {
+		name: i18n(I18nKey.anime),
+		url: "/anime/",
+		icon: "material-symbols:live-tv-outline-rounded",
+		pageKey: "anime",
+	},
+	Compass: {
+		name: i18n(I18nKey.compass),
+		url: "/compass/",
+		icon: "material-symbols:explore-rounded",
+		pageKey: "compass",
+	},
+	Skills: {
+		name: i18n(I18nKey.skills),
+		url: "/skills/",
+		icon: "material-symbols:workspaces-outline-rounded",
+		pageKey: "skills",
+	},
 	Projects: {
 		name: i18n(I18nKey.projects),
 		url: "/projects/",
 		icon: "material-symbols:deployed-code-outline-rounded",
 		pageKey: "projects",
+	},
+	Devices: {
+		name: i18n(I18nKey.devices),
+		url: "/devices/",
+		icon: "material-symbols:devices-rounded",
+		pageKey: "devices",
+	},
+	Games: {
+		name: i18n(I18nKey.games),
+		url: "/games/",
+		icon: "material-symbols:sports-esports-outline-rounded",
+		pageKey: "games",
+	},
+	Timeline: {
+		name: i18n(I18nKey.timeline),
+		url: "/timeline/",
+		icon: "material-symbols:timeline-rounded",
+		pageKey: "timeline",
 	},
 	Albums: {
 		name: i18n(I18nKey.albums),
@@ -86,11 +128,12 @@ export const LinkPresets: Record<string, NavBarLink> = {
 		icon: "material-symbols:info-outline-rounded",
 		pageKey: "about",
 	},
-	Friends: {
-		name: i18n(I18nKey.friends),
-		url: "/friends/",
-		icon: "material-symbols:handshake-outline-rounded",
-		pageKey: "friends",
+	GitHub: {
+		name: "GitHub",
+		url: "https://github.com/LyraVoid/Shirone",
+		icon: "fa7-brands:github",
+		external: true,
+		pageKey: "github",
 	},
 };
 
@@ -98,18 +141,18 @@ const defaultNavBarConfig: NavBarConfig = {
 	links: [
 		LinkPresets.Home,
 		LinkPresets.Archive,
-		LinkPresets.Moments,
 		LinkPresets.Albums,
+		LinkPresets.Moments,
 		LinkPresets.Projects,
 		{
 			name: i18n(I18nKey.more),
 			icon: "material-symbols:apps-rounded",
 			children: [
-// 分类/标签入口不进导航菜单（避免菜单项过多），预设已登记指向独立页面，
+				LinkPresets.About,
+				// 分类/标签入口不进导航菜单（避免菜单项过多），预设已登记指向独立页面，
 				// 需要时取消注释即可
 				// LinkPresets.Categories,
 				// LinkPresets.Tags,
-				LinkPresets.About,
 				LinkPresets.Friends,
 			],
 		},
