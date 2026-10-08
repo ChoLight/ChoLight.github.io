@@ -1,5 +1,5 @@
 ---
-title: AAA稿件委托
+title: 稿件委托
 status: ongoing
 defaultCategory: Commission
 ---
