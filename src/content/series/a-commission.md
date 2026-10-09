@@ -4,7 +4,7 @@ status: ongoing
 defaultCategory: Commission
 ---
 
-一些付费稿件。如有合作意愿，请联系工作账号**2436257076(QQ)**或**changjiguang2026(Weixin)**。
+一些付费稿件。如有合作意愿，请联系工作账号**2436257076(QQ)** 或 **changjiguang2026(Weixin)**。
 
 | 业务 | 说明 | 工期 | 字数 | 价格 |
 | :--- | :--- | :--- | :--- |:--- |
