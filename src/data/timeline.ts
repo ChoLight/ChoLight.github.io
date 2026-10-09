@@ -9,6 +9,10 @@ export const timelineData: TimelineItem[] = [
 		title: "建立了我的第一个博客",
 		date: "2026.10.8",
 		category: "milestone",
+		highlights: [
+			"添加了目前已有的文章、系列、项目",
+  ],
+  tags: ["博客网站"],
 	}
 ];
 
