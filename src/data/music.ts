@@ -19,7 +19,7 @@ export const musicTracks: readonly TrackDescriptor[] = [
 		artist: "下村陽子",
 		cover: "/assets/music/cover/-635532233.jpg",
 		source: "/assets/music/url/7788langlang - 月華の円舞曲 - Valse di Fantastica -.mp3",
-		duration: ,
+		duration: 205,
 	},
 	{
 		id: "song-2",
@@ -27,5 +27,5 @@ export const musicTracks: readonly TrackDescriptor[] = [
 		artist: "下村陽子",
 		cover: "/assets/music/cover/-635532233.jpg",
 		source: "/assets/music/url/下村陽子 - 夜に満ちる律べ.mp3",
-		duration: ,
+		duration: 236,
 ];
