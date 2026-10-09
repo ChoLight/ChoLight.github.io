@@ -53,7 +53,7 @@ export const musicConfig: MusicConfig = withUserConfig("music", {
 	provider: "local"
 	defaultVolume: 0.6,
 	defaultMode: "sequence",
-	}
+}
 
 export interface ResolvedMusicOptions {
 	readonly provider: MusicProvider;
