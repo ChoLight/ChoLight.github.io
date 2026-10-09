@@ -13,8 +13,8 @@ passwordHint: "18↑？(yes/no)"
 hideHomeContent: false
 ---
 
-::: Warning 阅前须知
-**Tag：** 多人；强奸；野外；流血；伤口性交。
+::: Warning 预警内容
+多人；强奸；野外；流血；伤口性交。
 
 
 疼痛的一日。
