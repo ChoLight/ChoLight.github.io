@@ -118,7 +118,7 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 	},
 	favicon: [
 		// 浏览器标签页图标，路径相对于 public 目录。
-		{ src: "/logo/icon.webp" },
+		{ src: "/logo/被鱼啃了的武士饼干.jpg" },
 	],
 });
 
