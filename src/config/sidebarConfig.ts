@@ -56,6 +56,7 @@ export const sidebarConfig: SidebarConfig = withUserConfig("sidebar", {
 			type: "series",
 			enable: true,
 			slot: "sticky",
+			column: "secondary",
 			collapseAfter: 5,
 			pages: [
 				"home",
