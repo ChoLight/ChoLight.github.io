@@ -50,25 +50,10 @@ import { withUserConfig } from "../utils/config-overlay.ts";
  */
 export const musicConfig: MusicConfig = withUserConfig("music", {
 	enable: true,
-	provider: "custom",
-	tracks: [
-  {
-    id: "song-1",
-    title: "月華の円舞曲 - Valse di Fantastica",
-    artist: "下村陽子",
-    cover: "/assets/music/cover/-635532233.jpg",   // 封面（可外链）
-    source: "/assets/music/url/7788langlang - 月華の円舞曲 - Valse di Fantastica -.mp3",  // 音频地址（可外链）
-    duration: ,                  // 时长秒数（可选）
-  },
-	{
-    id: "song-2",
-    title: "夜に満ちる律べ",
-    artist: "下村陽子",
-    cover: "/assets/music/cover/-635532233.jpg",   // 封面（可外链）
-    source: "/assets/music/url/下村陽子 - 夜に満ちる律べ.mp3",  // 音频地址（可外链）
-    duration: ,                  // 时长秒数（可选）
-  },	
-],
+	provider: "local"
+	defaultVolume: 0.6,
+	defaultMode: "sequence",
+	}
 
 export interface ResolvedMusicOptions {
 	readonly provider: MusicProvider;
