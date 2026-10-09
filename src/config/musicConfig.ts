@@ -50,28 +50,25 @@ import { withUserConfig } from "../utils/config-overlay.ts";
  */
 export const musicConfig: MusicConfig = withUserConfig("music", {
 	enable: true,
-	provider: "mixed",
-	// tracks: [
-	// 	{
-	// 		id: "custom-1",
-	// 		title: "示例曲目",
-	// 		artist: "艺术家",
-	// 		cover: "/assets/music/cover/example.webp",
-	// 		source: "/assets/music/url/example.mp3",
-	// 		duration: 240,
-	// 	},
-	// ],
-	meting: {
-		server: "netease",
-		type: "playlist",
-		id: "14164869977",
-		// 进入视口时预取歌单元数据（仅元信息，不预取音频流）：
-		// "metadata"（取）| "none"（默认，不取；交互后才请求，卡片显示「尚未请求」占位）
-		preload: "none",
-	},
-	defaultVolume: 0.7,
-	defaultMode: "sequence",
-});
+	provider: "custom",
+	tracks: [
+  {
+    id: "song-1",
+    title: "月華の円舞曲 - Valse di Fantastica",
+    artist: "下村陽子",
+    cover: "/assets/music/cover/-635532233.jpg",   // 封面（可外链）
+    source: "/assets/music/url/7788langlang - 月華の円舞曲 - Valse di Fantastica -.mp3",  // 音频地址（可外链）
+    duration: ,                  // 时长秒数（可选）
+  },
+	{
+    id: "song-2",
+    title: "夜に満ちる律べ",
+    artist: "下村陽子",
+    cover: "/assets/music/cover/-635532233.jpg",   // 封面（可外链）
+    source: "/assets/music/url/下村陽子 - 夜に満ちる律べ.mp3",  // 音频地址（可外链）
+    duration: ,                  // 时长秒数（可选）
+  },	
+],
 
 export interface ResolvedMusicOptions {
 	readonly provider: MusicProvider;
