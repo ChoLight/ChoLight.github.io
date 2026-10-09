@@ -28,4 +28,5 @@ export const musicTracks: readonly TrackDescriptor[] = [
 		cover: "/assets/music/cover/-635532233.jpg",
 		source: "/assets/music/url/下村陽子 - 夜に満ちる律べ.mp3",
 		duration: 236,
+	}
 ];
