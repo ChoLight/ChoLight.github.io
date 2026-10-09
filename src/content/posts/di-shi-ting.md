@@ -13,9 +13,9 @@ passwordHint: "18↑？(yes/no)"
 hideHomeContent: false
 ---
 
-::: Warning 阅前须知
+::: Warning 预警内容
 
-**Tag：** 双性；殴腹；窒息高潮；奸尸。
+双性；殴腹；窒息高潮；奸尸。
 
 打架打到床上去的意识流怪味小故事。
 :::
