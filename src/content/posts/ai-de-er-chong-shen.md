@@ -14,7 +14,7 @@ hideHomeContent: false
 ---
 
 ::: Warning 阅前须知
-女攻男受；扶她；Cuntboy；捆绑；阴蒂责；第三人辅助。
+**Tag：** 女攻男受；扶她；Cuntboy；捆绑；阴蒂责；第三人辅助。
 
 笨蛋情侣双向奔赴的恋爱喜剧一则。
 :::
