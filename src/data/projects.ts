@@ -12,11 +12,11 @@ export const projectsData: ProjectItem[] = [
 			"最终幻想十四武士中心图文合志。负责作品：《风光大葬》。",
 		category: "writing",
 		phase: "shipped",
-		technologies: ["同人", "合志"],
+		technologies: ["同人", "合志","文章"],
 		cover: "/assets/projects/00184f15-5f85-482b-bf53-5e6981a9aa27.webp",
 		coverAlt: "封面替代文本", 
 		featured: true,
-		projectsource: "https://www.allcpp.cn/d/863720.do#tabType=2",
+		repository: "https://www.allcpp.cn/d/863720.do#tabType=2",
 		year: "2024",
 	}
 ];
