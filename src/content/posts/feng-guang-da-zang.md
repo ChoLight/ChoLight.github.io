@@ -9,10 +9,8 @@ series: "fen-zheng-qian-xian-da-fan-tang"
 seriesOrder: 1
 ---
 
-::: Warning 阅前须知
-**Tag：** 4.x-6.x PVP设定；打野散人武士；指挥暗黑骑士。
-
-轻松向搞笑文。
+::: important 预警内容
+4.x-6.x PVP设定；打野散人武士；指挥暗黑骑士。
 :::
 
 ### 1.
